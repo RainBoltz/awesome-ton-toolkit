@@ -1,5 +1,10 @@
 # awesome-ton-toolkit
 Awesome Online Toolkit for TON Developers
+
+<div style="text-align: center">
+<img src="https://raw.githubusercontent.com/RainBoltz/awesome-ton-toolkit/main/preview.png" width="400">
+</div>
+
 > Smart contract development on TON blockchain is not that hard, if and only if you have a handy toolkit.
 
 ## Features
