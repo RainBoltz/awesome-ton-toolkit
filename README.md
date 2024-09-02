@@ -13,12 +13,15 @@ Awesome Online Toolkit for TON Developers
 
 - [x] TON Address support
 - [x] BOC parsing support
-- [ ] Tuple reader support
-- [ ] TL-B parser support
-- [ ] Jetton related support
 - [x] Common constants
+- [x] Hashing conversion support
+- [x] Number base conversion support
+- [x] TL-B parser support
+- [ ] Tuple reader support
+- [ ] Jetton related support
+
 
 ## Donation
-My TON Address: `UQAkfj5jyH1vTcQUxvseEM0tyKIPLpIoALeAPehSC2eY8-2c`
+My TON Address: `UQDrC2F-S08ss7dzaAHPiSERynMgRAngojBlNxGtoV6Bau_C`
 
-[or Click Me to Open TonKeeper](https://app.tonkeeper.com/transfer/UQAkfj5jyH1vTcQUxvseEM0tyKIPLpIoALeAPehSC2eY8-2c)
+[or Click Me to Open TonKeeper](https://app.tonkeeper.com/transfer/UQDrC2F-S08ss7dzaAHPiSERynMgRAngojBlNxGtoV6Bau_C)
