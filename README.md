@@ -17,6 +17,7 @@ Awesome Online Toolkit for TON Developers
 - [x] Hashing conversion support
 - [x] Number base conversion support
 - [x] TL-B parser support
+- [x] Dry Run support
 - [ ] Tuple reader support
 - [ ] Jetton related support
 
